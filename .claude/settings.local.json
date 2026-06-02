@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew bootRun)",
+      "Bash(xargs cat)"
+    ]
+  }
+}
